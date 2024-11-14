@@ -27,8 +27,8 @@ const Signin = () => {
               </div>
               <button className='w-64 md:w-80 m-5 bg-red-900 mt-5 h-10 rounded-lg text-white'>Login</button>
             </form>
-            <div className='m-5'>
-                <u className=''>or</u>
+            <div className='m-5 justify-center border-t border-black'>
+                <p className='w-64 text-center'>or</p>
             </div>
             <div className='flex flex-row gap-5px justify-between'>
                 <div className='bg-blue-400 mr-2 w-2/3 md:w-1/2 rounded-lg flex flex-row'>
